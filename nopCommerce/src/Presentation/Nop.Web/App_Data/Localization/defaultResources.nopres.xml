@@ -2664,6 +2664,9 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.AssociatedToProductName.Hint">
     <Value>A "grouped" parent product which this one is associated to.</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author">
+    <Value>Author</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AutomaticallyAddRequiredProducts">
     <Value>Automatically add these products to the cart</Value>
   </LocaleResource>
@@ -17030,6 +17033,9 @@
   </LocaleResource>
   <LocaleResource Name="Products.Details">
     <Value>Details</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Details.Author">
+    <Value>Author:</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Discontinued">
     <Value>Sorry - this product is no longer available</Value>
